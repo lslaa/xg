@@ -1,0 +1,7 @@
+URL: http://test-login-ng.ouyeel.com/sso/login?service=http://test.ouyeel.com/account/login/?next=http://test-xc.ouyeel.com/isssp-portal-ng/?1=1
+log:
+    file_name: test.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
